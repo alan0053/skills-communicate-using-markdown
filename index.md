@@ -3,6 +3,11 @@
 ![Berk's Emeral Dragon](https://i.ibb.co/DLVgkMF/drag.png)
 
 
+``` javascript
+let emeralDragon = `AAAaaaarrghhh!!!! * The Dragon started to open it's eyes slowly *`;
+```
+
+
 
 
 
