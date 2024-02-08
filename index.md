@@ -7,12 +7,11 @@
 let emeralDragon = `AAAaaaarrghhh!!!! * The Dragon started to open it's eyes slowly *`;
 ```
 
-- [x] Green Eyes
-- [x] Green Scales
-- [x] Green Flame
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
 
 
 
 
 updated index.md
-
